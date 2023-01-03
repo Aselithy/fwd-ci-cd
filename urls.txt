@@ -1,1 +1,3 @@
-GitHub repository : https://github.com/Aselithy/fwd-ci-cd
+URL01 : https://github.com/Aselithy/fwd-ci-cd
+URL02 : http://udapeople-5f6fd5b.s3-website-us-east-1.amazonaws.com/#/employees
+URL03 : http://d3ldtnevyeerot.cloudfront.net
