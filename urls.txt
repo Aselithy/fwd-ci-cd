@@ -1,4 +1,4 @@
 URL01 : https://github.com/Aselithy/fwd-ci-cd
-URL02 : http://udapeople-ee6607b.s3-website-us-east-1.amazonaws.com/
-URL03 : http://d2tnclpcfpful3.cloudfront.net/
-URL04 : http://ec2-18-204-17-146.compute-1.amazonaws.com:9090
+URL02 : http://udapeople-6bc38af.s3-website-us-east-1.amazonaws.com/
+URL03 : http://d39rcdhux66vst.cloudfront.net
+URL04 : http://18.204.17.146:9090
